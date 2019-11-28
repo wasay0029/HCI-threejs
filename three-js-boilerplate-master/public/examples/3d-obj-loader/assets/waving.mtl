@@ -1,0 +1,109 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl Body_MAT
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump BODY_normal.png
+map_Kd BODY_diffuse.png
+map_Ks BODY_specular.png
+map_d BODY_diffuse.png
+
+newmtl Body_MAT.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump BODY_normal.png
+map_Kd BODY_diffuse.png
+map_Ks BODY_specular.png
+map_d BODY_diffuse.png
+
+newmtl Body_MAT.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump BODY_normal.png
+map_Kd BODY_diffuse.png
+map_Ks BODY_specular.png
+map_d BODY_diffuse.png
+
+newmtl Body_MAT.003
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump BODY_normal.png
+map_Kd BODY_diffuse.png
+map_Ks BODY_specular.png
+map_d BODY_diffuse.png
+
+newmtl Brows_MAT
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump BODY_normal.png
+map_Kd BODY_diffuse.png
+map_Ks BODY_specular.png
+map_d BODY_diffuse.png
+
+newmtl Exo_MAT
+Ns 426.204004
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump EXO_normal.png
+map_Kd EXO_diffuse.png
+map_Ks EXO_specular.png
+
+newmtl Eye_MAT
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BODY_diffuse.png
+map_d BODY_diffuse.png
+
+newmtl Eye_Spec_MAT
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd BODY_diffuse.png
+map_d BODY_diffuse.png
